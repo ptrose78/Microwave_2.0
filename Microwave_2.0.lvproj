@@ -62,7 +62,11 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Get_Recipes.vi" Type="VI" URL="../Get_Recipes.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
+		<Item Name="Update_Time.vi" Type="VI" URL="../Update_Time.vi"/>
+		<Item Name="Use_Key_Pad_Numerics.vi" Type="VI" URL="../Use_Key_Pad_Numerics.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">

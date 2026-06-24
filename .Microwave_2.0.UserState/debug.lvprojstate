@@ -1,5 +1,66 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Main.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="4514"/>
+          <SignalUID value="4402"/>
+          <SignalUID value="3355"/>
+          <SignalUID value="555"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Timer.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="798"/>
+          <SignalUID value="1122"/>
+          <SignalUID value="1218"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Update_Time.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="190"/>
+          <SignalUID value="1531"/>
+          <SignalUID value="280"/>
+          <SignalUID value="1958"/>
+          <SignalUID value="159"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Use_Key_Pad_Numerics.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1069"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
