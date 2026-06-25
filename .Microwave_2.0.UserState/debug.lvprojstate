@@ -10,10 +10,32 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="4514"/>
-          <SignalUID value="4402"/>
           <SignalUID value="3355"/>
           <SignalUID value="555"/>
+          <SignalUID value="4351"/>
+          <SignalUID value="2882"/>
+          <SignalUID value="5205"/>
+          <SignalUID value="774"/>
+          <SignalUID value="4271"/>
+          <SignalUID value="4320"/>
+          <SignalUID value="6065"/>
+          <SignalUID value="5778"/>
+          <SignalUID value="2636"/>
+          <SignalUID value="4364"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Recipe_To_Display.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1376"/>
+          <SignalUID value="1553"/>
         </Generic>
       </Probes>
     </VI>

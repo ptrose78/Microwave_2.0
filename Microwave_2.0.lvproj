@@ -62,8 +62,11 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Convert_Elapsed_Time_To_Display.vi" Type="VI" URL="../Convert_Elapsed_Time_To_Display.vi"/>
 		<Item Name="Get_Recipes.vi" Type="VI" URL="../Get_Recipes.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Recipe_To_Display.vi" Type="VI" URL="../Recipe_To_Display.vi"/>
+		<Item Name="State_Enum.ctl" Type="VI" URL="../controls/State_Enum.ctl"/>
 		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
 		<Item Name="Update_Time.vi" Type="VI" URL="../Update_Time.vi"/>
 		<Item Name="Use_Key_Pad_Numerics.vi" Type="VI" URL="../Use_Key_Pad_Numerics.vi"/>
