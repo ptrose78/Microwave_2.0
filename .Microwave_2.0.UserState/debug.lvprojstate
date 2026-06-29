@@ -1,6 +1,36 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Check_Recipe.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="213"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Display_Recipe.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1763"/>
+          <SignalUID value="934"/>
+          <SignalUID value="1458"/>
+          <SignalUID value="1848"/>
+          <SignalUID value="1113"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Main.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -13,19 +43,11 @@
           <SignalUID value="3355"/>
           <SignalUID value="555"/>
           <SignalUID value="4351"/>
-          <SignalUID value="2882"/>
-          <SignalUID value="5205"/>
-          <SignalUID value="774"/>
-          <SignalUID value="4271"/>
-          <SignalUID value="4320"/>
-          <SignalUID value="6065"/>
-          <SignalUID value="5778"/>
-          <SignalUID value="2636"/>
-          <SignalUID value="4364"/>
+          <SignalUID value="4412"/>
         </Generic>
       </Probes>
     </VI>
-    <VI name="Recipe_To_Display.vi">
+    <VI name="Parse_Recipe.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
@@ -34,8 +56,7 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="1376"/>
-          <SignalUID value="1553"/>
+          <SignalUID value="693"/>
         </Generic>
       </Probes>
     </VI>
@@ -54,6 +75,18 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Timing Engine.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Update_Time.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -65,9 +98,6 @@
         <Generic>
           <SignalUID value="190"/>
           <SignalUID value="1531"/>
-          <SignalUID value="280"/>
-          <SignalUID value="1958"/>
-          <SignalUID value="159"/>
         </Generic>
       </Probes>
     </VI>

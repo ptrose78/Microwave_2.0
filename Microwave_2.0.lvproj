@@ -62,11 +62,17 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
-		<Item Name="Convert_Elapsed_Time_To_Display.vi" Type="VI" URL="../Convert_Elapsed_Time_To_Display.vi"/>
+		<Item Name="Check_Recipe.vi" Type="VI" URL="../Check_Recipe.vi"/>
+		<Item Name="Display_Recipe.vi" Type="VI" URL="../Display_Recipe.vi"/>
+		<Item Name="Display_Seconds.vi" Type="VI" URL="../Display_Seconds.vi"/>
 		<Item Name="Get_Recipes.vi" Type="VI" URL="../Get_Recipes.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Recipe_To_Display.vi" Type="VI" URL="../Recipe_To_Display.vi"/>
-		<Item Name="State_Enum.ctl" Type="VI" URL="../controls/State_Enum.ctl"/>
+		<Item Name="Panel.ctl" Type="VI" URL="../controls/Panel.ctl"/>
+		<Item Name="Parse_Recipe.vi" Type="VI" URL="../Parse_Recipe.vi"/>
+		<Item Name="Select_Time.vi" Type="VI" URL="../Select_Time.vi"/>
+		<Item Name="System_Mode.ctl" Type="VI" URL="../controls/System_Mode.ctl"/>
+		<Item Name="System_Status.ctl" Type="VI" URL="../controls/System_Status.ctl"/>
+		<Item Name="Time and Display Conversion.ctl" Type="VI" URL="../controls/Time and Display Conversion.ctl"/>
 		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
 		<Item Name="Update_Time.vi" Type="VI" URL="../Update_Time.vi"/>
 		<Item Name="Use_Key_Pad_Numerics.vi" Type="VI" URL="../Use_Key_Pad_Numerics.vi"/>
